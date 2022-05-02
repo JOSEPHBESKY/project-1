@@ -1,0 +1,8 @@
+.container{
+    text-align: center;
+    justify-items: center;
+    padding: 150px;
+}
+.btn{
+    cursor: pointer;
+}
